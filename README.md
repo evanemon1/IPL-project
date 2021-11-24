@@ -1,2 +1,2 @@
 # IPL-project
-its a ipl data analysis project
+its an ipl data analysis project
